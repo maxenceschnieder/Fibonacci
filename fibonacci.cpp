@@ -1,6 +1,6 @@
 #include <iostream>
  int main(){
- std::cout<<"\n hello worl \n\a";
+ std::cout<<"\n suite de Fibonacci \n";
  unsigned int A=0;
  unsigned int B=1;
  unsigned int n;
